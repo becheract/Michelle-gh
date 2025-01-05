@@ -1,0 +1,87 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 20/10/2020 03:58
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("/wp-content/themes/lyfpro/libraries/dsvy-lyfpro-icon/Flaticon.eot");
+  src: url("/wp-content/themes/lyfpro/libraries/dsvy-lyfpro-icon/Flaticon.eot#iefix") format("embedded-opentype"),
+       url("/wp-content/themes/lyfpro/libraries/dsvy-lyfpro-icon/Flaticon.woff2") format("woff2"),
+       url("/wp-content/themes/lyfpro/libraries/dsvy-lyfpro-icon/Flaticon.woff") format("woff"),
+       url("/wp-content/themes/lyfpro/libraries/dsvy-lyfpro-icon/Flaticon.ttf") format("truetype"),
+       url("/wp-content/themes/lyfpro/libraries/dsvy-lyfpro-icon/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("/wp-content/themes/lyfpro/libraries/dsvy-lyfpro-icon/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="dsvy-lyfpro-icon-"]:before, [class*=" dsvy-lyfpro-icon-"]:before,
+[class^="dsvy-lyfpro-icon-"]:after, [class*=" dsvy-lyfpro-icon-"]:after {  
+  font-family: Flaticon;
+font-style: normal;
+
+}
+
+.dsvy-lyfpro-icon-business:before { content: "\f100"; }
+.dsvy-lyfpro-icon-incubator:before { content: "\f101"; }
+.dsvy-lyfpro-icon-startup:before { content: "\f102"; }
+.dsvy-lyfpro-icon-development:before { content: "\f103"; }
+.dsvy-lyfpro-icon-teamwork:before { content: "\f104"; }
+.dsvy-lyfpro-icon-network:before { content: "\f105"; }
+.dsvy-lyfpro-icon-program:before { content: "\f106"; }
+.dsvy-lyfpro-icon-client:before { content: "\f107"; }
+.dsvy-lyfpro-icon-company:before { content: "\f108"; }
+.dsvy-lyfpro-icon-service:before { content: "\f109"; }
+.dsvy-lyfpro-icon-model:before { content: "\f10a"; }
+.dsvy-lyfpro-icon-successful:before { content: "\f10b"; }
+.dsvy-lyfpro-icon-growth:before { content: "\f10c"; }
+.dsvy-lyfpro-icon-businessman:before { content: "\f10d"; }
+.dsvy-lyfpro-icon-crowdfunding:before { content: "\f10e"; }
+.dsvy-lyfpro-icon-executive:before { content: "\f10f"; }
+.dsvy-lyfpro-icon-coaching:before { content: "\f110"; }
+.dsvy-lyfpro-icon-leadership:before { content: "\f111"; }
+.dsvy-lyfpro-icon-coaching-1:before { content: "\f112"; }
+.dsvy-lyfpro-icon-mentor:before { content: "\f113"; }
+.dsvy-lyfpro-icon-coaching-2:before { content: "\f114"; }
+.dsvy-lyfpro-icon-coach:before { content: "\f115"; }
+.dsvy-lyfpro-icon-experience:before { content: "\f116"; }
+.dsvy-lyfpro-icon-award:before { content: "\f117"; }
+.dsvy-lyfpro-icon-trophy:before { content: "\f118"; }
+.dsvy-lyfpro-icon-award-1:before { content: "\f119"; }
+.dsvy-lyfpro-icon-secure-payment:before { content: "\f11a"; }
+.dsvy-lyfpro-icon-medal:before { content: "\f11b"; }
+.dsvy-lyfpro-icon-technical-support:before { content: "\f11c"; }
+.dsvy-lyfpro-icon-support:before { content: "\f11d"; }
+.dsvy-lyfpro-icon-customer-service:before { content: "\f11e"; }
+.dsvy-lyfpro-icon-email:before { content: "\f11f"; }
+.dsvy-lyfpro-icon-email-1:before { content: "\f120"; }
+.dsvy-lyfpro-icon-pin:before { content: "\f121"; }
+.dsvy-lyfpro-icon-call:before { content: "\f122"; }
+.dsvy-lyfpro-icon-pdf:before { content: "\f123"; }
+.dsvy-lyfpro-icon-doc:before { content: "\f124"; }
+.dsvy-lyfpro-icon-coach-1:before { content: "\f125"; }
+.dsvy-lyfpro-icon-coaching-3:before { content: "\f126"; }
+.dsvy-lyfpro-icon-online-course:before { content: "\f127"; }
+.dsvy-lyfpro-icon-consulting:before { content: "\f128"; }
+.dsvy-lyfpro-icon-consulting-1:before { content: "\f129"; }
+.dsvy-lyfpro-icon-instructor:before { content: "\f12a"; }
+.dsvy-lyfpro-icon-business-professional:before { content: "\f12b"; }
+.dsvy-lyfpro-icon-coaching-4:before { content: "\f12c"; }
+.dsvy-lyfpro-icon-mentor-1:before { content: "\f12d"; }
+.dsvy-lyfpro-icon-presentation:before { content: "\f12e"; }
+.dsvy-lyfpro-icon-supporter:before { content: "\f12f"; }
+.dsvy-lyfpro-icon-accounting:before { content: "\f130"; }
+.dsvy-lyfpro-icon-presentation-1:before { content: "\f131"; }
+.dsvy-lyfpro-icon-consulting-2:before { content: "\f132"; }
+.dsvy-lyfpro-icon-opportunity:before { content: "\f133"; }
+.dsvy-lyfpro-icon-online-business:before { content: "\f134"; }
+.dsvy-lyfpro-icon-advisor:before { content: "\f135"; }
+.dsvy-lyfpro-icon-right-arrow:before { content: "\f136"; }
+.dsvy-lyfpro-icon-check:before { content: "\f137"; }
