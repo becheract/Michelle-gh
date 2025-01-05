@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'designervily-base-icons';
-  src: url('/michelle/wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.eot?661400');
-  src: url('/michelle/wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.eot?661400#iefix') format('embedded-opentype'),
-       url('/michelle/wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.woff2?661400') format('woff2'),
-       url('/michelle/wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.woff?661400') format('woff'),
-       url('/michelle/wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.ttf?661400') format('truetype'),
-       url('/michelle/wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.svg?661400#designervily-base-icons') format('svg');
+  src: url('//wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.eot?661400');
+  src: url('//wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.eot?661400#iefix') format('embedded-opentype'),
+       url('//wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.woff2?661400') format('woff2'),
+       url('//wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.woff?661400') format('woff'),
+       url('//wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.ttf?661400') format('truetype'),
+       url('//wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.svg?661400#designervily-base-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'designervily-base-icons';
-    src: url('/michelle/wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.svg?661400#designervily-base-icons') format('svg');
+    src: url('//wp-content/themes/lyfpro/libraries/designervily-base-icons/font/designervily-base-icons.svg?661400#designervily-base-icons') format('svg');
   }
 }
 */
